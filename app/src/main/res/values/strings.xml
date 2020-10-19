@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Guia7</string>
+    <string name="label_reglas">Reglas</string>
+    <string name="label_descripcion_reglas">Deberás adivinar un número entre 1 y 10; por cada respuesta incorrecta se te restará un punto; por cada respuesta correcta se te sumarán 10 puntos.</string>
+</resources>
